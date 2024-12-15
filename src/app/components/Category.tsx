@@ -141,7 +141,7 @@ const styles: { [key: string]: React.CSSProperties } = {
     fontWeight: "bold",
     fontSize: "18px",
     background: "#fff",
-    color: "#2A2A2A",
+   // color: "#2A2A2A",
     padding: "10px 20px",
     borderRadius: "20px",
   },
