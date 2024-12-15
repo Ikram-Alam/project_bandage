@@ -59,10 +59,10 @@ const Footer: React.FC = () => {
             <p style={styles.note}>Lore imp sum dolor Amit</p>
           </div>
         </div>
-
-        <div style={styles.bottomSection}>
+{/* 
+        <div style ={styles.bottomSection}> */}
           <p style={styles.footerText}>Made With Love By Finland All Right Reserved</p>
-        </div>
+        {/* </div> */}
       </div>
     </footer>
   );
