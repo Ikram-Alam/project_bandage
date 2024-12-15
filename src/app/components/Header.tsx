@@ -111,10 +111,10 @@ const Header: React.FC = () => {
       <div style={styles.socialMedia}>
         <span style={styles.socialText}>Follow Us :</span>
         <div style={styles.iconsContainer}>
-          <span style={styles.icon}><img src="social (2).png" alt="" /></span> {/* Instagram Icon */}
-          <span style={styles.icon}><img src="social (3).png" alt="" /></span> {/* YouTube Icon */}
-          <span style={styles.icon}><img src="social (4).png" alt="" /></span> {/* Facebook Icon */}
-          <span style={styles.icon}><img src="social (1).png" alt="" /></span> {/* Twitter Icon */}
+          <div style={styles.icon}><img src="social (2).png" alt="" /></div> {/* Instagram Icon */}
+          <div style={styles.icon}><img src="social (3).png" alt="" /></div> {/* YouTube Icon */}
+          <div style={styles.icon}><img src="social (4).png" alt="" /></div> {/* Facebook Icon */}
+          <div style={styles.icon}><img src="social (1).png" alt="" /></div> {/* Twitter Icon */}
         </div>
       </div>
     </header>

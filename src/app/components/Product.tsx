@@ -1,6 +1,6 @@
 "use client"
 import React from "react";
-import Image from "next/image";
+import Image from "next/legacy/image";
 
 const products = [
   { id: 1, image: "/p1.jpg", title: "Graphic Design", category: "English Department", price: 16.48, salePrice: 6.48 },

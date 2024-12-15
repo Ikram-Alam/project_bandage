@@ -42,7 +42,7 @@
 
 
 import React from "react";
-import Image from "next/image";
+import Image from "next/legacy/image";
 
 const CategorySection: React.FC = () => {
   return (
